@@ -104,6 +104,7 @@ public class Main {
                     DataModelDetails dataModelDetails = convertData.toObject(jsonDetails, DataModelDetails.class);
                     System.out.println(dataModelDetails);
                 });
+
         System.out.println("\n#################################################");
         System.out.println("#################################################");
 
